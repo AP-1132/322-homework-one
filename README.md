@@ -27,7 +27,7 @@ npx expo start
 
 # How to run app
 
-1. Open terminal and run
+1. Open the project in VSCode and in the VSCode terminal run:
 
 ```
 npx expo start
