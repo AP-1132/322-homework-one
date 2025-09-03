@@ -25,6 +25,18 @@ npx expo start
 
 5.  Change the background color of the main view.
 
+# How to run app
+
+1. Open terminal and run
+
+```
+npx expo start
+```
+
+2. Scan the QR code with your phone camera (Make sure you have the Expo Go app installed on your phone)
+
+3. Make changes in the `app/(tabs)/index.tsx` file and save to see your changes appear in the app
+
 ## Screenshot of App Working
 
 ![Screenshot of app working](./images/IMG_0156.PNG)
