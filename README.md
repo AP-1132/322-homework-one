@@ -27,7 +27,7 @@ npx expo start
 
 ## Screenshot of App Working
 
-![Screenshot of app working](../Test/images/IMG_0156.PNG)
+![Screenshot of app working](./images/IMG_0156.PNG)
 
 ## Get started
 
