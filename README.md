@@ -25,6 +25,10 @@ npx expo start
 
 5.  Change the background color of the main view.
 
+## Screenshot of App Working
+
+![Screenshot of app working](../Test/images/IMG_0156.PNG)
+
 ## Get started
 
 1. Install dependencies
@@ -32,8 +36,6 @@ npx expo start
    ```bash
    npm install
    ```
-
-````
 
 2. Start the app
 
@@ -73,4 +75,3 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-````
